@@ -8,4 +8,4 @@ CSS for simple fixed header and scrollable tbody
 3. use class **'scrollable-tbody'** for the parent div of table.
 4. set tbody max-height in css or inline.
 
-See example in this repo for more info.
+See **examples** in this repo for more info.

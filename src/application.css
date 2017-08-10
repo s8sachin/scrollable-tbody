@@ -1,0 +1,19 @@
+.scrollable-tbody > table > tbody{
+  display:block;
+  max-height: 343px;
+  overflow-y:scroll;
+}
+
+.scrollable-tbody > table > thead, .scrollable-tbody > table > tbody tr {
+  display:table;
+  width:100%;
+  table-layout:fixed;
+}
+
+.scrollable-tbody > table > thead, .scrollable-tbody > table > tbody {
+  width: calc( 100% - 1em )
+}
+
+.scrollable-tbody > table > tbody{
+	max-height: 200px; /*Customize your tbody height*/
+}

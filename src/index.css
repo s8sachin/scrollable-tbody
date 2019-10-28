@@ -15,5 +15,5 @@
 }
 
 .scrollable-tbody > table > tbody{
-	max-height: 200px; /*Customize your tbody height*/
+  max-height: 200px; /*Customize your tbody height*/
 }
